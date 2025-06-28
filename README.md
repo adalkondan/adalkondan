@@ -18,7 +18,16 @@
 Here are some ideas to get you started:
 
 -->
-🔭 I’m currently working on ...
+🔭 ## My Projects
+
+
+- [localllm_website](https://github.com/adalkondan/localllm_website)
+- [UIpath](https://github.com/adalkondan/UIpath)
+- [NoviceHelloWordinForge](https://github.com/adalkondan/NoviceHelloWordinForge)
+- [KoushikCV](https://github.com/adalkondan/KoushikCV)
+- [googletranslatemodel5language](https://github.com/adalkondan/googletranslatemodel5language)
+- [API_repsoneforwikipedia](https://github.com/adalkondan/API_repsoneforwikipedia)
+
 <!-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
