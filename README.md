@@ -18,7 +18,7 @@
 Here are some ideas to get you started:
 
 -->
-🔭 ## My Projects
+## My Projects
 
 
 - [localllm_website](https://github.com/adalkondan/localllm_website)
